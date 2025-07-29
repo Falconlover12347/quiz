@@ -1,0 +1,501 @@
+[
+
+    {
+        "question": "When was the first NVIDIA GeForce card released?",
+        "options": ["August 1999", "June 2001", "September 1998", "January 2000"],
+        "correct_answer": "August 1999"
+    },
+    {
+        "question": "Which is the best-selling NVIDIA GPU of all time?",
+        "options": ["GeForce GTX 1060", "GeForce GTX 1050 Ti", "GeForce RTX 3080", "GeForce GTX 970"],
+        "correct_answer": "GeForce GTX 1060"
+    },
+    {
+        "question": "Which is the best-selling modern Intel CPU?",
+        "options": ["Intel Core i5-10400", "Intel Core i7-10700K", "Intel Core i9-11900K", "Intel Core i3-10100"],
+        "correct_answer": "Intel Core i5-10400"
+    },
+    {
+        "question": "Which is the best-selling AMD CPU of all time?",
+        "options": ["AMD Ryzen 5 3600", "AMD Athlon 64", "AMD Ryzen 7 3700X", "AMD FX-8350"],
+        "correct_answer": "AMD Ryzen 5 3600"
+    },
+    {
+        "question": "Which is the best-selling AMD GPU of all time?",
+        "options": ["Radeon RX 580", "Radeon RX 5700 XT", "Radeon RX 5600 XT", "Radeon RX 480"],
+        "correct_answer": "Radeon RX 580"
+    },
+    {
+        "question": "Which OEM brand has the highest market share in the GPU market?",
+        "options": ["ASUS", "MSI", "Gigabyte", "EVGA"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "Which OEM brand has the highest market share in the PC market?",
+        "options": ["Dell", "HP", "Lenovo", "Apple"],
+        "correct_answer": "Lenovo"
+    },
+    {
+        "question": "Which OEM brand has the highest market share in the RAM market?",
+        "options": ["Corsair", "G.Skill", "Kingston", "Crucial"],
+        "correct_answer": "Kingston"
+    },
+    {
+        "question": "Which brand holds the highest market share in the gaming mouse market?",
+        "options": ["Logitech", "Razer", "Corsair", "SteelSeries"],
+        "correct_answer": "Logitech"
+    },
+    {
+        "question": "Which brand holds the highest market share in the gaming keyboard market?",
+        "options": ["Razer", "Logitech", "Corsair", "SteelSeries"],
+        "correct_answer": "Logitech"
+    },
+    {
+        "question": "Which brand holds the highest market share in the gaming headset market?",
+        "options": ["SteelSeries", "Logitech", "Razer", "HyperX"],
+        "correct_answer": "HyperX"
+    },
+    {
+        "question": "Who is the CEO of NVIDIA?",
+        "options": ["Jensen Huang", "Lisa Su", "Satya Nadella", "Elon Musk"],
+        "correct_answer": "Jensen Huang"
+    },
+    {
+        "question": "Who is the CEO of Razer?",
+        "options": ["Min-Liang Tan", "Jensen Huang", "Tim Sweeney", "John Carmack"],
+        "correct_answer": "Min-Liang Tan"
+    },
+    {
+        "question": "What is Razer's best-selling product?",
+        "options": ["Razer DeathAdder Mouse", "Razer BlackWidow Keyboard", "Razer Kraken Headset", "Razer Blade Laptop"],
+        "correct_answer": "Razer DeathAdder Mouse"
+    },
+    {
+        "question": "What is Logitech G’s best-selling product?",
+        "options": ["Logitech G502 Mouse", "Logitech G Pro Keyboard", "Logitech G935 Headset", "Logitech G29 Racing Wheel"],
+        "correct_answer": "Logitech G502 Mouse"
+    },
+    {
+        "question": "What is HyperX's best-selling gaming headset?",
+        "options": ["HyperX Cloud II", "HyperX Cloud Alpha", "HyperX Cloud Stinger", "HyperX Cloud Flight"],
+        "correct_answer": "HyperX Cloud II"
+    },
+    {
+        "question": "What is ASUS's best-selling product?",
+        "options": ["ASUS ROG Strix Graphics Cards", "ASUS ZenBook Laptops", "ASUS TUF Gaming Motherboards", "ASUS ROG Swift Monitors"],
+        "correct_answer": "ASUS ROG Strix Graphics Cards"
+    },
+    {
+        "question": "Which OEM brand has the largest market share in the overall PC hardware market?",
+        "options": ["Lenovo", "HP", "Dell", "Apple"],
+        "correct_answer": "Lenovo"
+    },
+    {
+        "question": "What is Lenovo's best-selling product?",
+        "options": ["ThinkPad Laptops", "Legion Gaming Laptops", "IdeaPad Laptops", "Yoga Convertible Laptops"],
+        "correct_answer": "ThinkPad Laptops"
+    },
+    {
+        "question": "What is MSI's best-selling product?",
+        "options": ["MSI Gaming Laptops", "MSI Graphics Cards", "MSI Motherboards", "MSI Monitors"],
+        "correct_answer": "MSI Gaming Laptops"
+    },
+
+    {
+        "question": "Which is the most profitable PC hardware company?",
+        "options": ["Intel", "NVIDIA", "AMD", "Apple"],
+        "correct_answer": "NVIDIA"
+    },
+
+    {
+        "question": "What is considered one of the worst-selling NVIDIA products?",
+        "options": ["NVIDIA GeForce FX 5200", "NVIDIA GeForce RTX 3090", "NVIDIA GeForce GTX 1060", "NVIDIA GeForce RTX 3060"],
+        "correct_answer": "NVIDIA GeForce FX 5200"
+    },
+    {
+        "question": "Which is considered one of the worst-selling products by Razer?",
+        "options": ["Razer Phone", "Razer DeathAdder V2", "Razer BlackWidow Keyboard", "Razer Kraken Headset"],
+        "correct_answer": "Razer Phone"
+    },
+    {
+        "question": "What is the most popular CPU brand among gamers in 2024?",
+        "options": ["Intel", "AMD", "ARM", "Qualcomm"],
+        "correct_answer": "Intel"
+    },
+    {
+        "question": "Which AMD GPU series is known as the RX 5000 series?",
+        "options": ["Navi", "Polaris", "Vega", "Fiji"],
+        "correct_answer": "Navi"
+    },
+
+    {
+        "question": "What is the codename for Intel’s 12th generation CPUs?",
+        "options": ["Alder Lake", "Rocket Lake", "Comet Lake", "Ice Lake"],
+        "correct_answer": "Alder Lake"
+    },
+    {
+        "question": "What is the base clock speed unit used to measure CPU frequency?",
+        "options": ["GHz", "MHz", "kHz", "THz"],
+        "correct_answer": "GHz"
+    },
+    {
+        "question": "Which company is the largest manufacturer of motherboards?",
+        "options": ["ASUS", "MSI", "Gigabyte", "ASRock"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "Which company is known for the TUF Gaming series of motherboards?",
+        "options": ["ASUS", "MSI", "Gigabyte", "ASRock"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "Which motherboard brand is known for its AORUS series?",
+        "options": ["Gigabyte", "ASUS", "MSI", "ASRock"],
+        "correct_answer": "Gigabyte"
+    },
+    {
+        "question": "Which company produces the BlackWidow series gaming keyboards?",
+        "options": ["Razer", "Logitech", "Corsair", "SteelSeries"],
+        "correct_answer": "Razer"
+    },
+    {
+        "question": "Which company produces the Radeon VII GPU?",
+        "options": ["AMD", "NVIDIA", "Intel", "Qualcomm"],
+        "correct_answer": "AMD"
+    },
+    {
+        "question": "Which motherboard brand is known for the 'ROG' series?",
+        "options": ["ASUS", "MSI", "Gigabyte", "ASRock"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "What was the first commercially available CPU with more than 1 billion transistors?",
+        "options": ["Intel Core i7-9700K", "Intel Pentium 4", "AMD Ryzen 9 3950X", "Intel Core i7-3960X"],
+        "correct_answer": "Intel Core i7-3960X"
+    },
+    {
+        "question": "Which year did DDR4 RAM officially enter the consumer market?",
+        "options": ["2011", "2014", "2016", "2018"],
+        "correct_answer": "2014"
+    },
+    {
+        "question": "Which PC hardware company became the first to reach a $1 trillion market cap?",
+        "options": ["Apple", "NVIDIA", "Intel", "AMD"],
+        "correct_answer": "Apple"
+    },
+    {
+        "question": "Which company pioneered the use of multi-core processors in consumer CPUs?",
+        "options": ["Intel", "AMD", "IBM", "ARM"],
+        "correct_answer": "Intel"
+    },
+    {
+        "question": "Which was the first GPU to break the 10 teraflops performance barrier?",
+        "options": ["NVIDIA RTX 3080", "AMD Radeon RX 6800 XT", "NVIDIA GTX 1080 Ti", "AMD Radeon VII"],
+        "correct_answer": "NVIDIA RTX 3080"
+    },
+    {
+        "question": "What year was the first 1TB consumer SSD released?",
+        "options": ["2012", "2014", "2016", "2018"],
+        "correct_answer": "2014"
+    },
+    {
+        "question": "What was the first CPU to use 7nm manufacturing process technology?",
+        "options": ["AMD Ryzen 3000 series", "Intel Core 10th Gen", "Apple M1", "AMD Ryzen 5000 series"],
+        "correct_answer": "AMD Ryzen 3000 series"
+    },
+    {
+        "question": "Which component saw the largest price increase during the 2020-2021 global chip shortage?",
+        "options": ["GPUs", "CPUs", "RAM", "Motherboards"],
+        "correct_answer": "GPUs"
+    },
+    {
+        "question": "Which company introduced the first DDR5 RAM modules to the consumer market?",
+        "options": ["Samsung", "Corsair", "Kingston", "G.Skill"],
+        "correct_answer": "Samsung"
+    },
+    {
+        "question": "Which was the first SSD to widely use the NVMe protocol in the consumer market?",
+        "options": ["Samsung 950 Pro", "Intel 750 Series", "Crucial MX500", "WD Blue SN550"],
+        "correct_answer": "Samsung 950 Pro"
+    },
+    {
+        "question": "Which company is the largest manufacturer of PC power supplies?",
+        "options": ["Corsair", "Seasonic", "EVGA", "Thermaltake"],
+        "correct_answer": "Seasonic"
+    },
+    {
+        "question": "Which company was the first to mass-produce 3D NAND flash memory?",
+        "options": ["Samsung", "Micron", "Intel", "Toshiba"],
+        "correct_answer": "Samsung"
+    },
+    {
+        "question": "Which was the first GPU to support real-time ray tracing in gaming?",
+        "options": ["NVIDIA RTX 2080", "AMD RX 5700 XT", "NVIDIA GTX 1080 Ti", "Intel Arc A770"],
+        "correct_answer": "NVIDIA RTX 2080"
+    },
+    {
+        "question": "What year was USB 3.0 officially released?",
+        "options": ["2008", "2010", "2013", "2015"],
+        "correct_answer": "2008"
+    },
+    {
+        "question": "Which company is the largest producer of laptop displays?",
+        "options": ["LG Display", "Samsung Display", "AU Optronics", "BOE Technology"],
+        "correct_answer": "LG Display"
+    },
+    {
+        "question": "Which company developed the first commercially successful multi-core CPU?",
+        "options": ["IBM", "Intel", "AMD", "Sun Microsystems"],
+        "correct_answer": "IBM"
+    },
+    {
+        "question": "Which company released the first OLED gaming monitor?",
+        "options": ["LG", "ASUS", "Samsung", "Dell"],
+        "correct_answer": "LG"
+    },
+    {
+        "question": "Which was the first consumer gaming monitor to support a 240Hz refresh rate?",
+        "options": ["ASUS ROG Swift PG258Q", "Acer Predator XB252Q", "BenQ ZOWIE XL2546", "Dell Alienware AW2518H"],
+        "correct_answer": "ASUS ROG Swift PG258Q"
+    },
+    {
+        "question": "Which brand launched the first 360Hz gaming monitor for consumers?",
+        "options": ["Alienware", "ASUS", "Acer", "BenQ"],
+        "correct_answer": "Alienware"
+    },
+    {
+        "question": "What is the highest refresh rate available in consumer monitors as of 2025?",
+        "options": ["360Hz", "480Hz", "500Hz", "540Hz"],
+        "correct_answer": "540Hz"
+    },
+    {
+        "question": "Which display panel technology offers the best contrast and true blacks in monitors?",
+        "options": ["OLED", "IPS", "TN", "VA"],
+        "correct_answer": "OLED"
+    },
+    {
+        "question": "Which gaming monitor brand is most associated with Alienware?",
+        "options": ["Dell", "ASUS", "MSI", "Gigabyte"],
+        "correct_answer": "Dell"
+    },
+    {
+        "question": "Which display panel type is best known for fast response times?",
+        "options": ["TN", "IPS", "OLED", "VA"],
+        "correct_answer": "TN"
+    },
+    {
+        "question": "Which monitor size is most common among esports players?",
+        "options": ["24.5 inch", "27 inch", "32 inch", "21 inch"],
+        "correct_answer": "24.5 inch"
+    },
+    {
+        "question": "Which company released the first 4K 144Hz gaming monitor?",
+        "options": ["Acer", "ASUS", "LG", "Gigabyte"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "Which gaming monitor brand is associated with the 'Zowie' series?",
+        "options": ["BenQ", "AOC", "MSI", "Gigabyte"],
+        "correct_answer": "BenQ"
+    },
+    {
+        "question": "What year was the first Intel Core i-series processor released?",
+        "options": ["2006", "2008", "2010", "2009"],
+        "correct_answer": "2008"
+    },
+    {
+        "question": "Which CPU manufacturer uses the 'Zen' architecture?",
+        "options": ["AMD", "Intel", "Qualcomm", "ARM"],
+        "correct_answer": "AMD"
+    },
+    {
+        "question": "What is the maximum number of cores in AMD's Ryzen Threadripper 3990X?",
+        "options": ["64", "32", "48", "24"],
+        "correct_answer": "64"
+    },
+    {
+        "question": "Which NVIDIA GPU architecture succeeded Pascal?",
+        "options": ["Turing", "Ampere", "Volta", "Kepler"],
+        "correct_answer": "Turing"
+    },
+    {
+        "question": "What is the primary function of a motherboard chipset?",
+        "options": ["Connect and manage communication between components", "Display graphics", "Store data", "Provide power to components"],
+        "correct_answer": "Connect and manage communication between components"
+    },
+    {
+        "question": "Which AMD architecture first introduced ray tracing support?",
+        "options": ["RDNA 2", "RDNA", "Vega", "Polaris"],
+        "correct_answer": "RDNA 2"
+    },
+    {
+        "question": "What does the 'G' in Intel Core i5-1035G1 stand for?",
+        "options": ["Graphics", "Gaming", "Generation", "Gigabyte"],
+        "correct_answer": "Graphics"
+    },
+    {
+        "question": "Which company owns the Radeon graphics brand?",
+        "options": ["AMD", "Intel", "NVIDIA", "ASUS"],
+        "correct_answer": "AMD"
+    },
+    {
+        "question": "Which Intel processor generation introduced hybrid architecture?",
+        "options": ["12th Gen", "10th Gen", "11th Gen", "9th Gen"],
+        "correct_answer": "12th Gen"
+    },
+    {
+        "question": "Which interface is faster: PCIe 4.0 or PCIe 3.0?",
+        "options": ["PCIe 4.0", "PCIe 3.0", "Both are same", "Depends on the CPU"],
+        "correct_answer": "PCIe 4.0"
+    },
+    {
+        "question": "Which CPU cooler brand is famous for its Noctua NH-D15?",
+        "options": ["Noctua", "Cooler Master", "Corsair", "DeepCool"],
+        "correct_answer": "Noctua"
+    },
+    {
+        "question": "Which CPU socket is used for Intel’s 13th Gen processors?",
+        "options": ["LGA 1700", "LGA 1200", "LGA 1151", "LGA 2066"],
+        "correct_answer": "LGA 1700"
+    },
+    {
+        "question": "Which technology allows CPUs to run at higher clock speeds under load?",
+        "options": ["Turbo Boost", "HyperThreading", "Overdrive", "ECC"],
+        "correct_answer": "Turbo Boost"
+    },
+    {
+        "question": "What does SSD stand for?",
+        "options": ["Solid State Drive", "Smart Storage Device", "Secure Storage Disk", "Standard Storage Drive"],
+        "correct_answer": "Solid State Drive"
+    },
+    {
+        "question": "Which gaming laptop brand is a sub-brand of ASUS?",
+        "options": ["ROG", "Alienware", "Legion", "Predator"],
+        "correct_answer": "ROG"
+    },
+    {
+        "question": "Which CPU manufacturer produces EPYC processors?",
+        "options": ["AMD", "Intel", "Qualcomm", "IBM"],
+        "correct_answer": "AMD"
+    },
+    {
+        "question": "Which graphics card brand is associated with the SUPRIM series?",
+        "options": ["MSI", "ASUS", "Gigabyte", "EVGA"],
+        "correct_answer": "MSI"
+    },
+    {
+        "question": "What is the default file system used by Windows 10?",
+        "options": ["NTFS", "FAT32", "exFAT", "EXT4"],
+        "correct_answer": "NTFS"
+    },
+    {
+        "question": "Which of the following is a CPU benchmarking tool?",
+        "options": ["Cinebench", "CrystalDiskMark", "GPU-Z", "FurMark"],
+        "correct_answer": "Cinebench"
+    },
+    {
+        "question": "Which laptop series is known for its 2-in-1 convertible design?",
+        "options": ["Yoga", "ThinkPad", "ROG", "Predator"],
+        "correct_answer": "Yoga"
+    },
+    {
+        "question": "Which technology is used for fast charging in USB-C?",
+        "options": ["Power Delivery (PD)", "QuickSync", "Optane", "G-Sync"],
+        "correct_answer": "Power Delivery (PD)"
+    },
+    {
+        "question": "Which brand is known for its Trident Z RAM modules?",
+        "options": ["G.Skill", "Corsair", "Kingston", "Crucial"],
+        "correct_answer": "G.Skill"
+    },
+    {
+        "question": "Which interface replaced mSATA for compact SSDs?",
+        "options": ["M.2", "PCIe", "U.2", "SATA III"],
+        "correct_answer": "M.2"
+    },
+    {
+        "question": "What does VRAM stand for?",
+        "options": ["Video Random Access Memory", "Virtual RAM", "Variable RAM", "Volatile RAM"],
+        "correct_answer": "Video Random Access Memory"
+    },
+    {
+        "question": "What is the primary purpose of thermal paste?",
+        "options": ["Enhance heat transfer", "Prevent static", "Secure the CPU", "Insulate components"],
+        "correct_answer": "Enhance heat transfer"
+    },
+    {
+        "question": "Which company produces the Predator gaming laptops?",
+        "options": ["Acer", "ASUS", "HP", "MSI"],
+        "correct_answer": "Acer"
+    },
+    {
+        "question": "Which NVIDIA series first introduced DLSS?",
+        "options": ["RTX 20 Series", "GTX 10 Series", "RTX 30 Series", "GTX 16 Series"],
+        "correct_answer": "RTX 20 Series"
+    },
+    {
+        "question": "Which brand is known for the Elgato streaming products?",
+        "options": ["Corsair", "Logitech", "Razer", "AverMedia"],
+        "correct_answer": "Corsair"
+    },
+    {
+        "question": "What does PSU stand for in a PC build?",
+        "options": ["Power Supply Unit", "Processor Support Unit", "Performance System Unit", "Peripheral Switching Unit"],
+        "correct_answer": "Power Supply Unit"
+    },
+    {
+        "question": "What does 'Hz' measure in monitors?",
+        "options": ["Refresh rate", "Pixel density", "Color depth", "Brightness"],
+        "correct_answer": "Refresh rate"
+    },
+    {
+        "question": "Which brand launched the 'Legion' series of gaming laptops?",
+        "options": ["Lenovo", "Dell", "HP", "MSI"],
+        "correct_answer": "Lenovo"
+    },
+    {
+        "question": "Which NVIDIA card is known for its extremely high power draw?",
+        "options": ["RTX 4090", "RTX 3070", "GTX 1650", "RTX 2080"],
+        "correct_answer": "RTX 4090"
+    },
+    {
+        "question": "Which PC case form factor is the smallest?",
+        "options": ["Mini-ITX", "Micro-ATX", "ATX", "E-ATX"],
+        "correct_answer": "Mini-ITX"
+    },
+    {
+        "question": "Which Intel CPU family targets laptops primarily?",
+        "options": ["U-Series", "K-Series", "HEDT", "XEON"],
+        "correct_answer": "U-Series"
+    },
+    {
+        "question": "Which technology allows multiple GPUs to work together in NVIDIA systems?",
+        "options": ["SLI", "CrossFire", "HyperThreading", "RAID"],
+        "correct_answer": "SLI"
+    },
+    {
+        "question": "Which brand makes the 'Phantom Gaming' series motherboards?",
+        "options": ["ASRock", "Gigabyte", "MSI", "ASUS"],
+        "correct_answer": "ASRock"
+    },
+    {
+        "question": "Which AMD CPU line is designed for laptops?",
+        "options": ["Ryzen Mobile", "Threadripper", "EPYC", "Athlon Pro"],
+        "correct_answer": "Ryzen Mobile"
+    },
+    {
+        "question": "Which company manufactures Intel CPUs?",
+        "options": ["Intel", "TSMC", "AMD", "GlobalFoundries"],
+        "correct_answer": "Intel"
+    },
+    {
+        "question": "Which brand produces 'Black' series high-performance HDDs?",
+        "options": ["Western Digital", "Seagate", "Toshiba", "Samsung"],
+        "correct_answer": "Western Digital"
+    },
+    {
+        "question": "Which RGB lighting control software is made by Corsair?",
+        "options": ["iCUE", "Aura Sync", "Mystic Light", "RGB Fusion"],
+        "correct_answer": "iCUE"
+    }
+]
